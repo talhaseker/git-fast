@@ -34,6 +34,7 @@ $ git status
 Command Summary - add and commit
 
 $ git add
+<<<<<<< HEAD
 $ git commit -m "message goes here"
 
 
@@ -105,3 +106,6 @@ Command Summary - add and commit
 
 $ git add
 $ git commit -m "message goes here"
+=======
+$ git commit -m "message goes here"
+>>>>>>> 8ab4308e1515d470515b6dbedf370342ab53c8d8
