@@ -82,3 +82,26 @@ Command Summary - add and commit
 
 $ git add
 $ git commit -m "message goes here"
+Command Summary - add and commit
+
+$ git add
+$ git commit -m "message goes here"
+Command Summary - add and commit
+
+$ git add
+$ git commit -m "message goes here"
+Command Summary - add and commit
+
+$ git add
+$ git commit -m "message goes here"Command Summary - add and commit
+
+$ git add
+$ git commit -m "message goes here"
+Command Summary - add and commit
+
+$ git add
+$ git commit -m "message goes here"
+Command Summary - add and commit
+
+$ git add
+$ git commit -m "message goes here"
